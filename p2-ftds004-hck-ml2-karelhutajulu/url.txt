@@ -1,0 +1,3 @@
+https://huggingface.co/spaces/karelgideon/P2M2_FINAL
+
+https://www.kaggle.com/datasets/alik05/forest-fire-dataset
